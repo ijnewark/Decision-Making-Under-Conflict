@@ -1,9 +1,5 @@
 # Decision-Making Computational Neuroscience Portfolio
 
-## Overview
-
-This repository demonstrates computational neuroscience skills by combining real behavioural data analysis, mechanistic computational modelling, and machine learning applied to human decision-making.
-
 **Repository theme:** Understanding how humans make decisions under conflict using reaction time data, drift diffusion models, and predictive modelling.
 
 ## Motivation
@@ -210,10 +206,6 @@ python scripts/run_pipeline.py
 - Hedge, C., Powell, G., & Sumner, P. (2018). The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences. *Behavior Research Methods*, 50(3), 1166-1186.
 - Ratcliff, R., & McKoon, G. (2008). The diffusion decision model: Theory and data for two-choice decision tasks. *Neural Computation*, 20(4), 873-922.
 - Forstmann, B. U., Ratcliff, R., & Wagenmakers, E. J. (2016). Sequential sampling models in cognitive neuroscience: Advantages, applications, and extensions. *Annual Review of Psychology*, 67, 641-666.
-
-## Author
-
-Built for the purpose of MSc and PhD applications. 
 
 ## License
 
